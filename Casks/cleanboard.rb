@@ -1,6 +1,6 @@
 cask "cleanboard" do
-  version "2.5.2"
-  sha256 "1597152715633366ec28e10f4c7e84028af79af6ec71e8576d0289ca2ec226f4"
+  version "2.5.3"
+  sha256 "8728a544ddd7bfa2db469e24da180c10a2caf01381cbbdbbb807e7f335836ad8"
 
   url "https://github.com/tompodab/cleanboard/releases/download/#{version}/CleanBoard-#{version}.dmg"
   name "CleanBoard"
